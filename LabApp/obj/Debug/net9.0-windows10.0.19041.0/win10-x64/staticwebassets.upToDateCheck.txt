@@ -1,0 +1,10 @@
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\wwwroot\weather.css
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\wwwroot\css\app.css
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\wwwroot\index.html
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
+wwwroot\weather.css

@@ -1,0 +1,5 @@
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\obj\Debug\net7.0\LabApp.csproj.AssemblyReference.cache
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\obj\Debug\net7.0\LabApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\obj\Debug\net7.0\LabApp.AssemblyInfoInputs.cache
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\obj\Debug\net7.0\LabApp.AssemblyInfo.cs
+C:\Users\manue_2gpicge\Downloads\LabApp\LabApp\obj\Debug\net7.0\LabApp.csproj.CoreCompileInputs.cache

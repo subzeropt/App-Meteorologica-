@@ -1,0 +1,74 @@
+﻿@page "/weather"
+@inject LabApp.ViewModels.MainViewModel ViewModel
+
+<h3>Aplicação Meteorológica</h3>
+
+@if (!isAuthenticated)
+{
+    <EditForm Model="loginModel" OnValidSubmit="HandleLogin">
+        <InputText @bind-Value="loginModel.Username" placeholder="Utilizador" class="input" />
+        <InputText @bind-Value="loginModel.Password" type="password" placeholder="Palavra-passe" class="input" />
+        <button type="submit">Entrar</button>
+    </EditForm>
+    @if (loginErro)
+    {
+        <p style="color:red">Credenciais inválidas</p>
+    }
+}
+else
+{
+    <p>Bem-vindo, @loginModel.Username!</p>
+
+    <InputText @bind-Value="ViewModel.City" placeholder="Cidade" class="input" />
+    <button @onclick="BuscarPrevisao">Obter Previsão</button>
+
+    @if (ViewModel.HasError)
+    {
+        <p style="color:red">Erro ao obter previsão. Verifica o nome da cidade ou a ligação à internet.</p>
+    }
+
+    @if (ViewModel.Forecasts?.Any() == true)
+    {
+        <div class="previsao">
+            @foreach (var dia in ViewModel.Forecasts)
+            {
+                <div class="dia-previsao">
+                    <p><strong>Data:</strong> @dia.Date</p>
+                    <p><strong>Temperatura mínima:</strong> @dia.MinTemp</p>
+                    <p><strong>Temperatura máxima:</strong> @dia.MaxTemp</p>
+                    <p><strong>Descrição:</strong> @dia.Description</p>
+                    <hr />
+                </div>
+            }
+        </div>
+    }
+}
+
+@code {
+    private bool isAuthenticated = false;
+    private bool loginErro = false;
+
+    private LoginModel loginModel = new();
+
+    protected override void OnInitialized()
+    {
+        ViewModel.StateChanged += StateHasChanged;
+    }
+
+    private void HandleLogin()
+    {
+        isAuthenticated = ViewModel.Login(loginModel.Username, loginModel.Password);
+        loginErro = !isAuthenticated;
+    }
+
+    private async Task BuscarPrevisao()
+    {
+        await ViewModel.FetchWeather();
+    }
+
+    public class LoginModel
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
+    }
+}

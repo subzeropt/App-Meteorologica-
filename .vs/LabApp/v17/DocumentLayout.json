@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\viewmodels\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\viewmodels\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\viewmodels\\iweatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\viewmodels\\iweatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\models\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\models\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\controlers\\iappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\controlers\\iappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\controlers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\controlers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\models\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\models\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\models\\dailyforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\models\\dailyforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\labapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\labapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\wwwroot\\weather.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\wwwroot\\weather.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|c:\\users\\manue_2gpicge\\downloads\\labapp\\labapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{270C7E74-FC4B-4FB2-B46A-997CCB6BF3C0}|LabApp\\LabApp.csproj|solutionrelative:labapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\ViewModels\\WeatherViewModel.cs",
+              "RelativeDocumentMoniker": "LabApp\\ViewModels\\WeatherViewModel.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\ViewModels\\WeatherViewModel.cs",
+              "RelativeToolTip": "LabApp\\ViewModels\\WeatherViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:41:24.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "LabApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\MauiProgram.cs",
+              "RelativeToolTip": "LabApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:32:46.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppController.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Controlers\\IAppController.cs",
+              "RelativeDocumentMoniker": "LabApp\\Controlers\\IAppController.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Controlers\\IAppController.cs",
+              "RelativeToolTip": "LabApp\\Controlers\\IAppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:21:12.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LabApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\User.cs",
+              "RelativeToolTip": "LabApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:18:59.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "LabApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\wwwroot\\index.html",
+              "RelativeToolTip": "LabApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-16T14:46:15.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "weather.css",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\wwwroot\\weather.css",
+              "RelativeDocumentMoniker": "LabApp\\wwwroot\\weather.css",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\wwwroot\\weather.css",
+              "RelativeToolTip": "LabApp\\wwwroot\\weather.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-16T14:45:34.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "LabApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "LabApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T14:36:52.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "LabApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Components\\Routes.razor",
+              "RelativeToolTip": "LabApp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T14:36:22.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "LabApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "LabApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T14:36:21.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "LabApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "LabApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:33:08.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWeatherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\ViewModels\\IWeatherViewModel.cs",
+              "RelativeDocumentMoniker": "LabApp\\ViewModels\\IWeatherViewModel.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\ViewModels\\IWeatherViewModel.cs",
+              "RelativeToolTip": "LabApp\\ViewModels\\IWeatherViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:32:38.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "LabApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "LabApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:32:08.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "LabApp\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Services\\IAuthService.cs",
+              "RelativeToolTip": "LabApp\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:31:00.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\WeatherService.cs",
+              "RelativeDocumentMoniker": "LabApp\\Models\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\WeatherService.cs",
+              "RelativeToolTip": "LabApp\\Models\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:29:31.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "LabApp\\Models\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\IWeatherService.cs",
+              "RelativeToolTip": "LabApp\\Models\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:29:09.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DailyForecast.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\DailyForecast.cs",
+              "RelativeDocumentMoniker": "LabApp\\Models\\DailyForecast.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\DailyForecast.cs",
+              "RelativeToolTip": "LabApp\\Models\\DailyForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:28:40.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LabApp\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "LabApp\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:27:30.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Controlers\\AppController.cs",
+              "RelativeDocumentMoniker": "LabApp\\Controlers\\AppController.cs",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Controlers\\AppController.cs",
+              "RelativeToolTip": "LabApp\\Controlers\\AppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:25:52.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LabApp.csproj",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\LabApp.csproj",
+              "RelativeDocumentMoniker": "LabApp\\LabApp.csproj",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\LabApp.csproj",
+              "RelativeToolTip": "LabApp\\LabApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T14:17:07.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "LabApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\manue_2gpicge\\Downloads\\LabApp\\LabApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "LabApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T14:16:58.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
